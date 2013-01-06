@@ -1,0 +1,2 @@
+.container-fluid>.row-fluid>.span2, .container-fluid>.row-fluid>.span6 { margin-top: 30px; }
+#featurette:after { content: ''; margin: 50px, 0px, 50px, 0px; }
