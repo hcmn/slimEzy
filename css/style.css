@@ -1,5 +1,12 @@
-.container-fluid>.row-fluid>.span2, .container-fluid>.row-fluid>.span6 { margin-top: 30px; }
-#featurette:after { content: ""; margin: 50px, 0px, 50px, 0px; }
+/* Text Changes */
 .row-fluid>.span8>h1, .row-fluid>.span8>h3 { text-align: center; }
 .row-fluid>.span8>p, .row-fluid>.span4>p { text-align: justify; }
+
+/* Navigation */
+.container-fluid>.row-fluid>.span2, .container-fluid>.row-fluid>.span6 { margin-top: 30px; }
+
+/* Featurettes */
+#featurette:after { content: ""; margin: 50px, 0px, 50px, 0px; }
+
+
  
