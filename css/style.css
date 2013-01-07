@@ -11,5 +11,9 @@
 .featurette { margin-top: 200px; }
 .featurette>.span5>p { margin-top: 50px; line-height: 1.6em; }
 
-/*icons*/
-.icon-list, .icon-pencil, .icon-shopping-cart { margin-top: 5px; }
+/* Icons */
+.icon-list, .icon-pencil, .icon-shopping-cart { margin-top: 7px; }
+.icon-heart { margin-top: 15px; }
+
+/* Main Marketing Text */
+.row-fluid>.span8>h1 { margin-top: 50px; }
